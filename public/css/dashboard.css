@@ -1,0 +1,29 @@
+.wrapper{
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 20px;
+}
+
+.suggestion{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;   
+
+}
+
+.suggestion>.card{
+    margin:10px
+}
+
+
+.latest{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;   
+
+}
+
+.latest>.card{
+    margin:10px
+}
+
